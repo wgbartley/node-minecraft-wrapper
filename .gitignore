@@ -1,1 +1,8 @@
+node_modules/*
+game/*.jar
+game/*.json
+game/eula.txt
+game/server.properties
+game/hs_err*.log
+game/logs/*
 game/world/*
